@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student at the Academy of Technology with a keen interest in machine learning and deep learning. Currently, I'm delving into the realm of reinforcement learning.
+I'm currently a student with a keen interest in machine learning and deep learning. At present, I'm delving into the realm of reinforcement learning.
 
 
 # 💻 Tech Stack:
